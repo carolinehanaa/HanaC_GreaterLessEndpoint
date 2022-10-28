@@ -1,8 +1,8 @@
-//Caroline Hana
-//10-25-2022
-//Greater or Less then the console will display greeater less or equal.
-//Peer Review - Isaiah Keith Ferguson - Program works as intended with no errors. good job!
-
+/*Caroline Hana
+10-25-2022
+Greater or Less then the console will display greeater less or equal.
+Peer Review - Isaiah Keith Ferguson - Program works as intended with no errors. good job!
+*/
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
